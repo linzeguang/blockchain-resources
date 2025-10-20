@@ -1,0 +1,10 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": 18,
+  "website": "https://www.usdc.com",
+  "description": "",
+  "explorer": "https://bscscan.com/token/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+  "type": "ERC20",
+  "id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+}
