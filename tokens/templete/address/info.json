@@ -1,0 +1,11 @@
+{
+  "name": " name",
+  "website": "website",
+  "description": "description",
+  "explorer": "explorer",
+  "type": "ERC20 | ERC721 | ...",
+  "symbol": "symbol",
+  "decimals": 18,
+  "status": "active",
+  "id": "address"
+}
